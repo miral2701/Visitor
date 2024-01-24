@@ -54,6 +54,7 @@ public:
 	}
 };
 
+
 class Fabric : public Building
 {
 	string owner;
