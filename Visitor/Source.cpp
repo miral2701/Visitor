@@ -185,7 +185,6 @@ int main()
 	i->Accept(ins);
 
 	
-
 	delete house;
 	delete fabric;
 	delete banck;
